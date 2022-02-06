@@ -132,6 +132,11 @@ a {
   row-gap: 3.5rem;
 }
 
+.page__content {
+  align-self: center;
+  row-gap: 3.5rem;
+}
+
 .clock__twelve, 
 .clock__three, 
 .clock__six, 
